@@ -1,5 +1,7 @@
 # Itis_progr_2021
 
+Kazan Federal University Programming Course
+
 Информатика и программирование 1 курс 1 семестр
 
 Распределение баллов: 
@@ -15,3 +17,26 @@
  
   
   Sublime Text, Notepad++
+  
+  
+Процесс разработки
+
+http://git-scm.com/book/ru/v2
+
+Книга о распределённой системе контроля версий Git. Охватывает широкий спектр возможностей Git и поясняет всё на простых примерах. В версии на русском могут не открываться отдельные страницы, переключение языка в левом столбце.  
+  
+  
+  
+  Литература, источники
+
+      Habrahabr.ru
+      
+      Stackoverflow.com + StackExchange communities
+      
+      https://github.com/bayandin/awesome-awesomeness
+
+
+
+Part I
+
+Создайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
