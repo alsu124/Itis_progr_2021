@@ -81,7 +81,7 @@ Part I
 
 ### Получение задания
 
-Для получения задания необходимо пройти по [ссылке для получения задания](README.md#Ссылки-для-получения-домашних-заданий) и нажать кнопку "Accept this assignment"
+Для получения задания необходимо пройти по https://classroom.github.com/a/cK4zQmbk и нажать кнопку "Accept this assignment"
 
 ![Получение задания](img/accept_assignment.png?raw=true "Получение задания")
 
