@@ -53,9 +53,20 @@ http://git-scm.com/book/ru/v2
 
       Habrahabr.ru
       
+      
       Stackoverflow.com + StackExchange communities
       
       https://github.com/bayandin/awesome-awesomeness
+      
+      Федоров Д. Ю. Программирование на языке высокого уровня Python : учеб. пособие. — М. : Издательство Юрайт, 2019. — 161 с.
+      
+      Tagliaferri L. How To Code in Python 3.- DigitalOcean, New York City, New York, USA.- ISBN 978-0-9997730-1-7
+      
+      Хеллман Д. Стандартная библиотека Python 3: справочник с примерами, 2-е изд. : Пер. с англ. — СПб. : ООО “Диалектика”, 2019. — 1376 с. : ил. LSBN 978-5-6040043-8-8 (рус.)
+      
+      Копец Д. Классические задачи Computer Science на языке Python. - СПб.: Питер, 2020. 256 с.: ил. - (Серия «Библиотека программиста).ISBN 978-5-4461-1428-3
+      
+      
 
 
 
