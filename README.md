@@ -29,7 +29,21 @@ Kazan Federal University Programming Course
   
   
   
-  Инструменты
+#  Инструменты. Установка
+1. Перейдите по ссылке и скачайте установщик последней доступной версии Python 3 для Windows. https://www.python.org/downloads/
+
+Запустите установщик. На первом экране обязательно отметьте галочкой опцию Add Python 3.6 to PATH – это сделает Python 3 доступным в командной строке. Далее следуйте инструкциям, в процессе установки не снимайте галочки у предлагаемых для установки компонентов.
+
+2. Установить Sublime Text https://www.sublimetext.com/3
+3. Настройка Sublime для Input
+
+Идем Preferences – Key Bindings и  Вставляем код ниже 
+
+{ "keys": ["ctrl+b"], "command": "repl_open", "caption": "Python - RUN current file", "id": "repl_python_run", "mnemonic": "d", "args": { "type": "subprocess", "encoding": "utf8", "cmd": ["python", "-i", "-u", "$file_basename"], "cwd": "$file_path", "syntax": "Packages/Python/Python.tmLanguage", "external_id": "python", "extend_env": {"PYTHONIOENCODING": "utf-8"} } }
+
+Save+ Ctrl+B
+
+
   Git
   Sublime Text, Notepad++
   
