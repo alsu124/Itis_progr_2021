@@ -192,4 +192,5 @@ Part I
       Марк Лутц - Изучаем Python, 4-е издание
       
       
-
+Курсы https://stepik.org/course/3356/syllabus
+Курсы яндекс
