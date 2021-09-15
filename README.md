@@ -41,6 +41,8 @@ Kazan Federal University Programming Course
 2. Установить Sublime Text https://www.sublimetext.com/3
 3. Настройка Sublime для Input
 
+Устанавливаем плагин  SublimeRELP
+
 Идем Preferences – Key Bindings и  Вставляем код ниже 
 
 { "keys": ["ctrl+b"], "command": "repl_open", "caption": "Python - RUN current file", "id": "repl_python_run", "mnemonic": "d", "args": { "type": "subprocess", "encoding": "utf8", "cmd": ["python", "-i", "-u", "$file_basename"], "cwd": "$file_path", "syntax": "Packages/Python/Python.tmLanguage", "external_id": "python", "extend_env": {"PYTHONIOENCODING": "utf-8"} } }
