@@ -38,10 +38,11 @@ Kazan Federal University Programming Course
 
 Запустите установщик. На первом экране обязательно отметьте галочкой опцию Add Python 3.6 to PATH – это сделает Python 3 доступным в командной строке. Далее следуйте инструкциям, в процессе установки не снимайте галочки у предлагаемых для установки компонентов.
 
-2. Установить Sublime Text https://www.sublimetext.com/3
+2. Установить Sublime Text https://www.sublimetext.com/3 (Package Control -> Install Package -> SublimeRELP)
 3. Настройка Sublime для Input
 
 Устанавливаем плагин  SublimeRELP
+Нстройки по ссылке https://www.youtube.com/watch?v=xMpr-i7YAsY
 
 Идем Preferences – Key Bindings и  Вставляем код ниже 
 
